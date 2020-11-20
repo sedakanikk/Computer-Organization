@@ -1,4 +1,8 @@
-# Computer_Organization
+# Computer-Organization
+
+Gebze Technical University Computer Organization`s projects
+
+Grades
 
 85/100 MIPS ALU
 
