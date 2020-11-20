@@ -1,0 +1,22 @@
+Quartus II Archive log --	E:/workspace/151044068.qarlog
+
+Archive:	E:/workspace/151044068.qar
+Date:		Sun Nov 17 13:57:42 2019
+Quartus II 64-Bit		13.1.0 Build 162 10/23/2013 SJ Web Edition
+
+	=========== Files Selected: ===========
+E:/workspace/151044068/alu32/alu1.v
+E:/workspace/151044068/alu32/alu32.qpf
+E:/workspace/151044068/alu32/alu32.qsf
+E:/workspace/151044068/alu32/alu32.v
+E:/workspace/151044068/alu32/alu32_tb.v
+E:/workspace/151044068/alu32/db/alu32.cmp.hdb
+E:/workspace/151044068/alu32/db/alu32.db_info
+E:/workspace/151044068/alu32/incremental_db/compiled_partitions/alu32.db_info
+E:/workspace/151044068/alu32/mux_4x2.v
+E:/workspace/151044068/alu32/xor_2x1.v
+c:/altera/13.1/quartus/bin64/assignment_defaults.qdf
+	======= Total: 11 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
